@@ -4,7 +4,7 @@ A full statistical methodology is used to determine the bid price of cars in an 
 The pdf file goes into detail about the problem, our solution and methodology as well as strengths and weaknesses of the model.
 There are two excel files, one for the regression analysis and the second one for the simulation and optimization models.
 
-Here is a quick summary of the project:
+* *Here is a quick summary of the project:* *
 
 Beemer Barry runs a used BMW dealership and has recently had trouble turning a profit. In the used car business, predicting what customers value is essential in determining which cars to keep on the lot and how to price them. Therefore, Barry is hoping to use past auction and sales data to inform his future decisions for his business. Moreover, Barry is going to attend the Beaumont Auction in two days. There are five vehicle candidates with detailed specifications to be revealed in the auction and Barry strives to set a bidding strategy to maximize his expected profits. With a budget of $50,000 and a maximum capacity of four cars, Barry wants to know what the optimal bid percentage level for him would be when considering the probability of winning the auction items.
 
